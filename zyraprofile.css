@@ -1,0 +1,39 @@
+@font-face{
+    font-family:super_shiny;
+    src:url(Supershiny.ttf);
+}
+@font-face{
+    font-family:VintageKing;
+    src:url(VintageKing.ttf);
+}
+@font-face{
+    font-family:akira;
+    src:url(Akira\ Expanded\ Demo.otf);
+}
+h3 {
+    font-family:super_shiny;
+    font-size: 80px;
+    color: rgba(255, 255, 255);
+   
+}
+p{
+    color:white;
+    font-family:VintageKing; 
+    font-size: 90%;
+}
+body{
+    margin-left: 8%;
+    margin-right: 8%;
+}
+.text{
+    font-family:VintageKing;
+    font-size: 40px;
+}
+
+.item1{
+    float: left;
+}
+
+.item2{
+    float: right;
+}
